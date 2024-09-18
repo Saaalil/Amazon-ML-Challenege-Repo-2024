@@ -110,4 +110,3 @@ If an image fails to load, the program logs an error and continues by using a pl
 - PIL (Pillow)
 - tqdm
 - scikit-learn
-
